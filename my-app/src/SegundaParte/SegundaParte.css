@@ -1,0 +1,30 @@
+.secondDiv {
+    border: 2px solid red;
+    width: auto;   
+    display: flex;
+    margin: 50px;
+}
+
+section {
+    display: flex;
+    flex-direction: column;
+    align-content: space-around;
+    justify-content: space-between;
+    align-items: flex-start;
+    padding: 40px;
+}
+
+img {
+    height: 80px;
+    width: 80px;    
+}
+
+h4 {
+    color: gray;
+    text-align: left;
+}
+
+p {
+    color: gray;
+    text-align: left;
+}
