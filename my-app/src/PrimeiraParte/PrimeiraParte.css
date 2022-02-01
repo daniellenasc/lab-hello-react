@@ -12,23 +12,22 @@
     justify-content: space-around;    
 }
 
-.navbar {
-    border: 3px solid red;
+.navbar {   
     width: 100%;    
     display: flex;    
     justify-content: space-between;    
 }
 
-.firstDiv h1 {
-    border: 3px solid green;
+
+
+.firstDiv h1 {    
     font-size: 50px;
     width: 300px;
     text-align: left;
     margin-bottom: 0px;
 }
 
-.firstDiv p{
-    border: 3px solid green;
+.firstDiv p{    
     font-size: 15px;
     width: 250px;
     text-align: left;

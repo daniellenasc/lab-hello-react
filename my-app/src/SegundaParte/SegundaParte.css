@@ -1,5 +1,4 @@
-.secondDiv {
-    border: 2px solid red;
+.secondDiv {    
     width: auto;   
     display: flex;
     margin: 50px;
@@ -14,17 +13,14 @@ section {
     padding: 40px;
 }
 
-img {
-    height: 80px;
-    width: 80px;    
-}
-
 h4 {
+    font-size: 20px;
     color: gray;
     text-align: left;
 }
 
 p {
+    font-size: 15px;
     color: gray;
     text-align: left;
 }
